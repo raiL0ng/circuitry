@@ -64,7 +64,7 @@
 
 
 \def\studenttitle#1{\gdef\@studenttitle{#1}}\studenttitle{\cyr\cyrs\cyrt%
-\cyru\cyrd\cyre\cyrn\cyrt\cyra}
+\cyru\cyrd\cyre\cyrn\cyrt\cyro\cyrv}
 \def\studentdone#1{\gdef\@studentdone{#1}}\studentdone{\cyrp\cyrr\cyro%
 \cyrsh\cyre\cyrd\cyrsh\cyre\cyrg\cyro}
 \def\studentfemale{\studenttitle{\cyrs\cyrt\cyru\cyrd\cyre\cyrn\cyrt%
